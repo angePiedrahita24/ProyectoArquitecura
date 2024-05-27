@@ -111,7 +111,7 @@ FINALIZAR:  MOV DPTR,CTE
 				    MOV ACC,[DPTR]
 				    HALT
 AUX:    0x00
-M:	    0x03
+M:	 0x03
 Q:	    0x02
 Q1:	    0x00
 COUNT:	0x08
